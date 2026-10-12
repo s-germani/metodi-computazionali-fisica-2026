@@ -18,8 +18,8 @@ Esempi su come svolgere le esrcitazioni verranno resi disponibili nell'area [*so
 
 Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 =========================================
-* [L01  - Introduzione](slides/L01_MetodiComputazionali_Intro.pdf)
+* [L01  - Introduzione](lezioni/L01_MetodiComputazionali_Intro.pdf)
   * [E01 - Preparazione Ambiente di Lavoro e Basi di Linux](slides/E01_Terminale_Linux.pdf)
   
-* [L02  - Basi di Python](notebooks/lezioni/L02_BasiPython.ipynb)
-  * [E02 - Basi di Python](notebooks/esercitazioni/E02_BasiPython.ipynb)
+* [L02  - Basi di Python](lezioni/L02_BasiPython.ipynb)
+  * [E02 - Basi di Python](esercitazioni/E02_BasiPython.ipynb)
