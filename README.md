@@ -23,3 +23,8 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   
 * [L02  - Basi di Python](lezioni/L02_BasiPython.ipynb)
   * [E02 - Basi di Python](esercitazioni/E02_BasiPython.ipynb)
+
+* [L03 - Rappresentazione ed Errori](lezioni/L03_Rappresentazioni_ed_Errori_Numerici.ipynb)
+  * [E03 - Git e GitHub](esercitazioni/E03_Github.ipynb)
+  * [E03a - Rappresentazioni ed Errori](esercitazioni/E03a_Rappresentazione_ed_Errori.ipynb)
+
