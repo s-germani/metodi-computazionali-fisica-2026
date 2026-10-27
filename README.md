@@ -29,5 +29,6 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   * [E03a - Rappresentazioni ed Errori](esercitazioni/E03a_Rappresentazione_ed_Errori.ipynb)
 
 * [L04 - Librerie Python in Ambito Scientifico](lezioni/L04_NumpyScipyMatplotlib.ipynb)
+  * [L04a - Copie in Python](lezioni/L04a_PythonCopy.ipynb)
   * [E04 - Librerie Python in Ambito Scientifico](esercitazioni/E04_NumpyScipyMatplotlib.ipynb)
 
