@@ -7,3 +7,7 @@
   * `myage.py`     : calcolo età
   * `lists.py`     : liste e dizionari
 
+* Cartella [E04](E04) (Esercitazione 4 - Moduli Python di uso sceintifico)
+  * `exoplanets.py`
+  * `kepler.py`
+
