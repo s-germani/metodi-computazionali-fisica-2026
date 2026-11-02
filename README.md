@@ -32,3 +32,4 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   * [L04a - Copie in Python](lezioni/L04a_PythonCopy.ipynb)
   * [E04 - Librerie Python in Ambito Scientifico](esercitazioni/E04_NumpyScipyMatplotlib.ipynb)
 
+* [L05 - Funzioni Moduli e Classi](lezioni/L05_Funzioni_Moduli_e_Classi.ipynb)
