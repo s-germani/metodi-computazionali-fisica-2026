@@ -36,3 +36,5 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   * [E05 - Funzioni Moduli e Classi](esercitazioni/E05_Funzioni_Moduli_e_Classi.ipynb)
 
 * [L06 - Metodi Monte Carlo](lezioni/L06_MonteCarlo.ipynb)
+  * [E06 - Metodi Monte Carlo](esercitazioni/E06_MonteCarlo.ipynb)
+
