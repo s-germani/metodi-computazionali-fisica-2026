@@ -38,3 +38,4 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 * [L06 - Metodi Monte Carlo](lezioni/L06_MonteCarlo.ipynb)
   * [E06 - Metodi Monte Carlo](esercitazioni/E06_MonteCarlo.ipynb)
 
+* L07 - Integrazione e Derivazione [slides](lezioni/L07_Integrazione_e_Derivazione.pdf),[notebook](lezioni/L06_Integrazione_e_Derivazione.ipynb)
