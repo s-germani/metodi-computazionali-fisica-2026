@@ -19,5 +19,9 @@
   * `probx2.py`        : script python sulle distribuzioni di probabilità  con il metodo Hit or Missa e della cumulativa
   * `random_walk.py` : modulo per la simulazione del random walk 2D
   * `diffusione_2d.py` : script python per i grafici sulla diffusione 2D che utilizza il modulo random_walk
- 
+
+* Cartella [E07](E07) ( Esercitazione 7 - Integrali e Derivate ):
+  * `oscillatore_anarmonico.py` : script python per calcolare il periodo dell'oscillatore anarmonico
+  * `signal_times.py`           : script python per il calcolo delle derivate dei segnali dell'oscilloscopio
+
 
