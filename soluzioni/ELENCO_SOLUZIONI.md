@@ -24,4 +24,7 @@
   * `oscillatore_anarmonico.py` : script python per calcolare il periodo dell'oscillatore anarmonico
   * `signal_times.py`           : script python per il calcolo delle derivate dei segnali dell'oscilloscopio
 
+* Cartella [E08](E08) ( Esercitazione  - Equazioni Minimizzazione ): 
+  * `jpsimass_fit.py` : script python per il fit della massa invariante della J/psi
+
 
